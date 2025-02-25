@@ -1,5 +1,5 @@
 # William-Moller
-# 💫 About Me:
+# 💫 Info om mig:
 Aarhus Tech
 Grundforløb 2 Datateknikker med speciale i programring 
 
