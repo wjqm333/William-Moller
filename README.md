@@ -1,6 +1,7 @@
 # William-Moller
 # 💫 About Me:
-I am in the process of my education as a computer technician with a specialization in programming
+Aarhus Tech
+Grundforløb 2 Datateknikker med speciale i programring 
 
 
 # 💻 Tech Stack:
